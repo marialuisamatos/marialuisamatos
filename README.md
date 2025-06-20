@@ -16,3 +16,4 @@
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Node.JS](https://img.shields.io/badge/node-4EA94B?style=for-the-badge&logo=node&logoColor=white)

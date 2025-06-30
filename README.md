@@ -22,4 +22,5 @@
 ![Python](https://img.shields.io/badge/python-4EA94B?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![IA](https://img.shields.io/badge/IA-%23E34F26.svg?style=for-the-badge&logo=IA&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/node-4EA94B?style=for-the-badge&logo=node&logoColor=white)

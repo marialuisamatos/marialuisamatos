@@ -24,3 +24,5 @@ Dev em Desenvolvimento!
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Node.JS](https://img.shields.io/badge/node-4EA94B?style=for-the-badge&logo=node&logoColor=white)
 ![cypress](https://img.shields.io/badge/cypress-4EA94B?style=for-the-badge&logo=cypress&logoColor=white)
+![PyAutoGui](https://img.shields.io/badge/PyAutoGui-4EA94B?style=for-the-badge&logo=PyAutoGui&logoColor=white)
+

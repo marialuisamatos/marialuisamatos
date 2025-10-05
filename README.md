@@ -6,6 +6,7 @@
 
 Hello, world! Sou Maria Luisa, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas (4° período).
 Sou movida pela curiosidade e pela vontade de transformar ideias em soluções reais. Tenho grande interesse por tecnologia e inovação, e estou sempre em busca de novos desafios que me ajudem a aprimorar minhas habilidades e expandir meus conhecimentos.
+
 Dev em Desenvolvimento!
 
 

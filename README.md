@@ -3,8 +3,9 @@
 <!--
 **marialuisamatos/marialuisamatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   ## ✨ Sobre Mim: ✨
-- Sou estudante de Análise e Desenvolvimento de Sistemas.
-- Apaixonada por Tecnologia e Inovações.
+
+Hello, world! Sou Maria Luisa, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas (4° período).
+Sou movida pela curiosidade e pela vontade de transformar ideias em soluções reais. Tenho grande interesse por tecnologia e inovação, e estou sempre em busca de novos desafios que me ajudem a aprimorar minhas habilidades e expandir meus conhecimentos.
 
 
 ## 🌐 Tecnologias:
@@ -15,11 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-4EA94B?style=for-the-badge&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4EA94B?style=for-the-badge&logo=PHP&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQLSERVER-4EA94B?style=for-the-badge&logo=SQLSERVERt&logoColor=white)
-![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/python-4EA94B?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Machine Learng](https://img.shields.io/badge/Machine%20Learng-%23E34F26.svg?style=for-the-badge&logo=Machine%20Learng&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/node-4EA94B?style=for-the-badge&logo=node&logoColor=white)

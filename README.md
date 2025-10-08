@@ -4,7 +4,7 @@
 **marialuisamatos/marialuisamatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   ## ✨ Sobre Mim: ✨
 
-Hello, world! Sou Maria Luisa, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas (4° período).
+Hello, world! Sou Maria Luisa, tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas (4° período).
 Sou movida pela curiosidade e pela vontade de transformar ideias em soluções reais. Estou sempre em busca de novos desafios que me ajudem a aprimorar minhas habilidades e expandir meus conhecimentos.
 
 Dev em Desenvolvimento!

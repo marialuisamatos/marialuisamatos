@@ -1,7 +1,5 @@
 # Olá, Mundo! 👾 Eu sou Maria Luisa Silva Matos
 
-[![Maria Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuisamatos&show_icons=true&theme=vision-friendly-dark&hide=prs,issues,contribs&locale=pt)](https://github.com/marialuisamatos)
-
 ---
 
 ## 👩🏻‍💻 Sobre Mim

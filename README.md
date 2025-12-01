@@ -10,6 +10,7 @@ Meu foco de carreira se divide em:
 * **Análise de Sistemas (QA - Quality Assurance):** Garantindo a qualidade e a integridade dos sistemas através de testes e automação.
 * **Desenvolvimento de Sistemas:** Atuando em Front-end e Back-end para criar aplicações completas e eficientes.
 
+
 ---
 
 ## 🚀 Stack de Tecnologias

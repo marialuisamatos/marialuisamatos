@@ -1,7 +1,5 @@
 # Olá, Mundo! 👾 Eu sou Maria Luisa Silva Matos
 
----
-
 ## 👩🏻‍💻 Sobre Mim
 
 Tenho **20 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** (4º período). Sou apaixonada por tecnologia, inovação e pelo aprendizado contínuo, sempre buscando aprimorar meus conhecimentos para construir soluções robustas.

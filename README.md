@@ -27,6 +27,4 @@ Este é o meu conjunto de habilidades técnicas, incluindo linguagens, bancos de
 
 ## 📊 Linguagens Mais Usadas no GitHub
 
-Este gráfico reflete a distribuição de linguagens nos meus repositórios públicos.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialuisamatos&layout=compact&theme=vision-friendly-dark&hide_title=true)](https://github.com/marialuisamatos)

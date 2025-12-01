@@ -26,11 +26,6 @@ Este é o meu conjunto de habilidades técnicas, incluindo linguagens, bancos de
 ---
 
 <div align="center">
-  
-### 👩‍💻 Estatísticas
-
-<img
-  align="esquerda"
 
 
 ### 🤖 Linguagens e Tecnologias

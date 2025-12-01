@@ -29,15 +29,26 @@ Este é o meu conjunto de habilidades técnicas, incluindo linguagens, bancos de
 <div align="center">
 
 ### 🤖 Linguagens e Tecnologias
+<br />
 
 <img alt="HTML" title="HTML" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img alt="CSS" title="CSS" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img alt="JavaScript" title="JavaScript" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt="TypeScript" title="TypeScript" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img alt="React" title="React" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img alt="Next.js" title="Next.js" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<br /> <img alt="PHP" title="PHP" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img alt="Git" title="Git" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br /><br />
+
+<img alt="Java" title="Java" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img alt="Python" title="Python" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<br /><br />
+
+<img alt="MongoDB" title="MongoDB" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img alt="MySQL" title="MySQL" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<br /><br />
+
+<img alt="Cypress" title="Cypress" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+<img alt="Selenium" title="Selenium" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img alt="PyAutoGUI" title="PyAutoGUI (Automação Python)" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 </div>

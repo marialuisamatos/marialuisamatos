@@ -28,8 +28,9 @@ Este é o meu conjunto de habilidades técnicas, incluindo linguagens, bancos de
 <div align="center">
   
 ### 👩‍💻 Linguagens Mais Usadas
-  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marialuisamatos&show_icons=true&theme=vision-friendly-dark&hide=prs,issues,contribs&locale=pt)](https://github.com/marialuisamatos)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialuisamatos&layout=compact&theme=vision-friendly-dark&hide_title=true&locale=pt)](https://github.com/marialuisamatos)
 
 </div>
 

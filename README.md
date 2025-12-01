@@ -1,29 +1,36 @@
-## Hi Everyone! 👾 Sou Maria Luisa! 
+# Olá, Mundo! 👾 Eu sou Maria Luisa Silva Matos
 
-<!--
-**marialuisamatos/marialuisamatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-  ## ✨ Sobre Mim: ✨
+[![Maria Luisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuisamatos&show_icons=true&theme=vision-friendly-dark&hide=prs,issues,contribs&locale=pt)](https://github.com/marialuisamatos)
 
-Hello, world! Sou Maria Luisa, tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas (4° período).
-Sou movida pela curiosidade e pela vontade de transformar ideias em soluções reais. Estou sempre em busca de novos desafios que me ajudem a aprimorar minhas habilidades e expandir meus conhecimentos.
+---
 
-Dev em Desenvolvimento!
+## 👩🏻‍💻 Sobre Mim
 
+Tenho **20 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** (4º período). Sou apaixonada por tecnologia, inovação e pelo aprendizado contínuo, sempre buscando aprimorar meus conhecimentos para construir soluções robustas.
 
-## 🌐 Tecnologias:
+### 🎯 Áreas de Interesse
+Meu foco de carreira se divide em:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4EA94B?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-4EA94B?style=for-the-badge&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-4EA94B?style=for-the-badge&logo=PHP&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQLSERVER-4EA94B?style=for-the-badge&logo=SQLSERVERt&logoColor=white)
-![Python](https://img.shields.io/badge/python-4EA94B?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Node.JS](https://img.shields.io/badge/node-4EA94B?style=for-the-badge&logo=node&logoColor=white)
-![cypress](https://img.shields.io/badge/cypress-4EA94B?style=for-the-badge&logo=cypress&logoColor=white)
-![selenium](https://img.shields.io/badge/selenium-4EA94B?style=for-the-badge&logo=selenium&logoColor=white)
-![PyAutoGui](https://img.shields.io/badge/PyAutoGui-4EA94B?style=for-the-badge&logo=PyAutoGui&logoColor=white)
+* **Análise de Sistemas (QA - Quality Assurance):** Garantindo a qualidade e a integridade dos sistemas através de testes e automação.
+* **Desenvolvimento de Sistemas:** Atuando em Front-end e Back-end para criar aplicações completas e eficientes.
 
+---
+
+## 🚀 Stack de Tecnologias
+
+Este é o meu conjunto de habilidades técnicas, incluindo linguagens, bancos de dados e ferramentas de automação:
+
+| Categoria | Tecnologias | Foco |
+| :--- | :--- | :--- |
+| **Linguagens Base** | **HTML, CSS, JavaScript** | Fundamentos do desenvolvimento web e interatividade front-end. |
+| **Linguagens Backend** | **Java, Python** | Lógica de negócios e construção de APIs. |
+| **Banco de Dados** | **MongoDB, MySQL** | Modelagem e gerenciamento de dados SQL e NoSQL. |
+| **Automação & QA** | **Cypress, Selenium, PyAutoGUI** | Criação de testes automatizados (Web e Desktop) para garantia da qualidade (QA). |
+
+---
+
+## 📊 Linguagens Mais Usadas no GitHub
+
+Este gráfico reflete a distribuição de linguagens nos meus repositórios públicos.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialuisamatos&layout=compact&theme=vision-friendly-dark&hide_title=true)](https://github.com/marialuisamatos)

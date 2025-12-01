@@ -55,7 +55,7 @@ Este é o meu conjunto de habilidades técnicas, incluindo linguagens, bancos de
 
 <img alt="PyAutoGUI" title="PyAutoGUI (Automação Python)" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<br /> <img alt="PHP" title="PHP" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img alt="PHP" title="PHP" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 <img alt="Git" title="Git" width="30px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 

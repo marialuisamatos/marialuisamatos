@@ -4,13 +4,6 @@
 
 Tenho **20 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** (4º período). Sou apaixonada por tecnologia, inovação e pelo aprendizado contínuo, sempre buscando aprimorar meus conhecimentos para construir soluções robustas.
 
-### 🎯 Áreas de Interesse
-Meu foco de carreira se divide em:
-
-* **Análise de Sistemas (QA - Quality Assurance):** Garantindo a qualidade e a integridade dos sistemas através de testes e automação.
-* **Desenvolvimento de Sistemas:** Atuando em Front-end e Back-end para criar aplicações completas e eficientes.
-
-
 ---
 
 ## 🚀 Stack de Tecnologias

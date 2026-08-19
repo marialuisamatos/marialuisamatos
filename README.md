@@ -156,7 +156,7 @@ Atuei como voluntária no evento em **14 de março de 2026**, auxiliando na:
 
 ## 💜 Let's build something!
 
-**[LinkedIn](#) • [Portfólio](#) • [GitHub](#)**
+**[LinkedIn](https://www.linkedin.com/in/maria-luisa-silva/) • [Portfólio]([#](https://marialuisamatos.github.io/))**
 
 <br>
 

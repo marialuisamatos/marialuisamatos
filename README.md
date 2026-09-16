@@ -99,22 +99,10 @@ Acredito que desenvolver uma aplicação também significa saber **testá-la, en
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
-## 🤝 Voluntariado
-
-**AWSome Women Community Summit Brasil**
-Atuei como voluntária no evento em **14 de março de 2026**, auxiliando na:
-`Recepção` `Credenciamento` `Suporte aos participantes` `Suporte aos palestrantes`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
 ## 🧠 Além do código
 
-💡 Aprendizado contínuo · 🤝 Trabalho em equipe · 📚 Organização · 🚀 Adaptabilidade · 💬 Comunicação · 🔎 Curiosidade
-
-## 🌎 Idiomas
-
-🇺🇸 **Inglês** — Básico, em desenvolvimento
-🇪🇸 **Espanhol** — Básico, em desenvolvimento
+💡 Aprendizado contínuo · 🌐 Estudando idiomas · 📚 Amo livros · 💜 K-Pop · 🌸 Animes · ☕ 100% Café
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
@@ -131,10 +119,6 @@ Atuei como voluntária no evento em **14 de março de 2026**, auxiliando na:
 
 ## 💜 Let's build something!
 
-**[LinkedIn](https://www.linkedin.com/in/maria-luisa-silva/) • [Portfólio](https://marialuisamatos.github.io/) • [GitHub](https://github.com/marialuisamatos/)**
-
-<br>
-
-![](https://capsule-render.vercel.app/api?type=waving&color=7B70FF&height=100&section=footer)
+**[LinkedIn](https://www.linkedin.com/in/maria-luisa-silva/) • [Portfólio](https://marialuisamatos.github.io/) • [Instagram](https://www.instagram.com/_luisamts/)**
 
 </div>

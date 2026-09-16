@@ -2,7 +2,7 @@
 
 </div> <img align="right" src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="220"/>
 
-🎓 Graduada em Análise e Desenvolvimento de Sistemas ☁️ Cloud Computing & AWS 💻 Desenvolvimento Front-end & Back-end 🧪 Automação de testes 📍 Recife, PE — Brasil
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=7B70FF&width=435&lines=Hello%2C+I'm+Luisa!" alt="Typing SVG" /></a>
 
 <br clear="right"/> <img src="https://dummyimage.com/1000x4/7B70FF/7B70FF.png" width="100%">
 

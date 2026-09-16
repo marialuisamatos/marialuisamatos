@@ -1,165 +1,88 @@
-# 👾 Hey! I'm Maria Luisa
-
-### `Desenvolvedora e Analista de Sistemas`
-
-🎓 Graduada em **Análise e Desenvolvimento de Sistemas**  
-☁️ **Cloud Computing & AWS**  
-💻 Desenvolvimento **Front-end & Back-end**  
-🧪 Automação de testes  
-📍 Recife, PE — Brasil
-
----
-
-## 💜 Sobre mim
-
-Oi! Eu sou a **Maria Luisa**, mas pode me chamar de **Malu**.
-
-Sou graduada em **Análise e Desenvolvimento de Sistemas** e gosto de transformar ideias em soluções através da tecnologia.
-
-Minha experiência acadêmica e prática envolve **desenvolvimento web, back-end, bancos de dados, automação de testes e Cloud Computing**.
-
-Também participei do programa **AWS re/Start**, onde tive contato com Linux, Python, Shell Script e diversos serviços da AWS.
-
-Atualmente, estou buscando minha primeira oportunidade profissional na área de tecnologia, especialmente como **Desenvolvedora ou Analista de Sistemas Júnior**.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Desenvolvimento
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35"/>
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="35"/>
-</p>
-
-**MySQL • MongoDB • SQL Server**
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35"/>
-</p>
-
-**AWS EC2 • S3 • IAM • VPC • Lambda • RDS • CloudTrail • CloudFormation • Route 53**
-
-### 🧪 Testes & Automação
-
-**Cypress • Selenium • PyAutoGUI**
-
----
-
-## 🚀 O que eu já desenvolvi
-
-### 🤖 Sistema de Moderação de Comentários com IA
-
-Sistema desenvolvido em equipe com o **Porto Digital**, utilizando a API do **Google Gemini** para identificar e bloquear comentários ofensivos.
-
-**Stack:**
-
-`Google Gemini API` `Cypress` `JavaScript` `Web`
-
----
-
-### ☕ Recifidades
-
-Projeto acadêmico desenvolvido em equipe para reimplementação do sistema **Recifidades** utilizando Java.
-
-**Conceitos utilizados:**
-
-`Java` `POO` `JPA` `ORM` `CRUD` `Collections` `Interfaces`
-
----
-
-### ☁️ AWS re/Start
-
-Formação prática em **Cloud Computing**, com atividades envolvendo infraestrutura, Linux, automação e serviços AWS.
-
-**Tecnologias:**
-
-`AWS` `Linux` `Python` `Shell Script`
-
----
-
-## 🧪 Experiência com QA
-
-Durante minha formação, também trabalhei com **automação e análise de sistemas**.
-
-Já utilizei:
-
-- Cypress
-- Selenium
-- PyAutoGUI
-- Testes automatizados
-- Validação de funcionalidades
-- Análise de sistemas
-
-Acredito que desenvolver uma aplicação também significa saber **testá-la, encontrar problemas e melhorar continuamente**.
-
----
-
-## 🎓 Formação
-
-**Análise e Desenvolvimento de Sistemas**  
-Faculdade Católica Imaculada Conceição do Recife — FICR  
-`2024 — 2026`
-
-**AWS re/Start — Cloud Computing**  
-Rede Cidadã  
-`2026`
-
----
-
-## 🤝 Voluntariado
-
-### AWSome Women Community Summit Brasil
-
-Atuei como voluntária no evento em **14 de março de 2026**, auxiliando na:
-
-`Recepção` • `Credenciamento` • `Suporte aos participantes` • `Suporte aos palestrantes`
-
----
-
-## 🧠 Além do código
-
-💡 Aprendizado contínuo  
-🤝 Trabalho em equipe  
-📚 Organização  
-🚀 Adaptabilidade  
-💬 Comunicação  
-🔎 Curiosidade
-
----
-
-## 🌎 Idiomas
-
-🇺🇸 **Inglês** — Básico, em desenvolvimento  
-🇪🇸 **Espanhol** — Básico, em desenvolvimento
-
----
-
 <div align="center">
 
-## 💜 Let's build something!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B70FF&height=180&section=header&text=Hey,%20eu%20sou%20a%20Malu!&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
-**[LinkedIn](https://www.linkedin.com/in/maria-luisa-silva/) • [Portfólio](https://marialuisamatos.github.io/)**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=7B70FF&center=true&vCenter=true&width=560&lines=Desenvolvedora+%26+Analista+de+Sistemas;Cloud+Computing+%26+AWS;Front-end+%26+Back-end;Automa%C3%A7%C3%A3o+de+Testes" alt="Typing SVG" />
+
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B70FF&height=100&section=footer"/>
+Oi! Eu sou a __Maria Luisa__, mas pode me chamar de __Malu__. Sou graduada em __Análise e Desenvolvimento de Sistemas__ e gosto de transformar ideias em soluções através da tecnologia. Minha experiência acadêmica e prática passa por __desenvolvimento web, back-end, bancos de dados, automação de testes e Cloud Computing__. Participei do programa __AWS re/Start__, onde tive contato com Linux, Python, Shell Script e diversos serviços da AWS. Atualmente, estou em busca da minha primeira oportunidade profissional na área, como __Desenvolvedora ou Analista de Sistemas Júnior__. 📍 Recife, PE — Brasil.
 
+## ☁ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-7B70FF?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-7B70FF?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-7B70FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-7B70FF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-7B70FF?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-7B70FF?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-7B70FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-7B70FF?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-DAB0C0?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-DAB0C0?style=for-the-badge&logo=mongodb&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-DAB0C0?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-DAB0C0?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-DAB0C0?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cypress-DAB0C0?style=for-the-badge&logo=cypress&logoColor=black"/>
+<img src="https://img.shields.io/badge/Selenium-DAB0C0?style=for-the-badge&logo=selenium&logoColor=black"/>
+
+</div>
+
+## ✿ Socials
+
+<div align="center">
+
+<a href="https://github.com/marialuisamatos/"><img src="https://img.shields.io/badge/GitHub-DAB0C0?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/maria-luisa-silva/"><img src="https://img.shields.io/badge/Linkedin-DAB0C0?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+<a href="https://marialuisamatos.github.io/"><img src="https://img.shields.io/badge/Portfólio-DAB0C0?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+
+</div>
+
+<br>
+
+## 🚀 Projetos em destaque
+
+**🤖 Sistema de Moderação de Comentários com IA** — desenvolvido em equipe com o Porto Digital, usando a API do Google Gemini para identificar e bloquear comentários ofensivos.
+`Google Gemini API` `Cypress` `JavaScript`
+
+**🍽️ NutriControl** — SPA completa de gestão alimentar (HTML, CSS e JavaScript puro), com dashboard em Chart.js, controle de estoque, modo cozinha com baixa de estoque por receita, exportação em PDF e responsividade total.
+`JavaScript` `Chart.js` `LocalStorage`
+
+**☕ Recifidades** — reimplementação em equipe do sistema Recifidades, projeto acadêmico em Java.
+`Java` `POO` `JPA` `ORM` `CRUD`
+
+**☁️ AWS re/Start** — formação prática em Cloud Computing, com infraestrutura, Linux, automação e serviços AWS.
+`AWS` `Linux` `Python` `Shell Script`
+
+## 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas** — Faculdade Católica Imaculada Conceição do Recife (FICR) `2024 — 2026`
+**AWS re/Start — Cloud Computing** — Rede Cidadã `2026`
+
+## 🤝 Voluntariado
+
+**AWSome Women Community Summit Brasil** — recepção, credenciamento e suporte a participantes e palestrantes (14/03/2026).
+
+## ♥︎ GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=marialuisamatos&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=marialuisamatos&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=marialuisamatos&theme=radical&hide_border=true&layout=compact)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B70FF&height=100&section=footer"/>
+<sub>made with 💜 by Malu</sub>
 </div>

@@ -2,6 +2,8 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=7B70FF&height=200&section=header&text=Maria%20Luisa%20Silva&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20%26%20Analista%20de%20Sistemas&descAlignY=58&descSize=20)
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGljdTRhanl1Z2lnbWg4eGN5aTkzd3d0NDE4bjl5dmFteHlnZTM4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JxKVO3ZAHLiDKYSwgC/giphy.gif" width="380"/>
+
 </div>
 
 🎓 Graduada em **Análise e Desenvolvimento de Sistemas**

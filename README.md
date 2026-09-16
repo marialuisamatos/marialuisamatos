@@ -1,10 +1,12 @@
 <div align="center">
 
-</div> <img align="right" src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="220"/>
+Mostrar Imagem
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=7B70FF&width=435&lines=Hello%2C+I'm+Luisa!" alt="Typing SVG" /></a>
+</div> <img align="right" src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="220"/> <div align="center">
 
-<br clear="right"/> <img src="https://dummyimage.com/1000x4/7B70FF/7B70FF.png" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=38&duration=3000&pause=800&color=7B70FF&width=500&lines=Hello%2C+I'm+Luisa!" alt="Typing SVG" /></a>
+
+</div> <br clear="right"/> <img src="https://dummyimage.com/1000x4/7B70FF/7B70FF.png" width="100%">
 
 ## 💜 Sobre mim
 

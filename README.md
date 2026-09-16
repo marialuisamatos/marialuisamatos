@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&text=MARIA%20LUISA%20SILVA&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=140&text=MARIA%20LUISA%20SILVA&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=50)
 
 </div>
 
@@ -99,6 +99,6 @@ Inglês — básico, em desenvolvimento · Espanhol — básico, em desenvolvime
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80)
 
 </div>

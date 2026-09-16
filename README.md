@@ -17,7 +17,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxscjRlNzltZG5hNmQ3eHpvOXBxd3F0cDkwMzB6czE0b2FraGY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif" width="200"/>
+<img src="https://tenor.com/nYCpk78duAG.gif" width="200"/>
 
 </td>
 </tr>

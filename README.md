@@ -1,14 +1,10 @@
 <div align="center">
 
-Mostrar Imagem
-
 </div> <img align="right" src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="220"/>
 
 🎓 Graduada em Análise e Desenvolvimento de Sistemas ☁️ Cloud Computing & AWS 💻 Desenvolvimento Front-end & Back-end 🧪 Automação de testes 📍 Recife, PE — Brasil
 
 <br clear="right"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
-
-<img src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="200"/>
 
 </td>
 </tr>

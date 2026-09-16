@@ -102,7 +102,7 @@ Acredito que desenvolver uma aplicação também significa saber **testá-la, en
 
 ## 🧠 Além do código
 
-💡 Aprendizado contínuo · 🌐 Estudando idiomas · 📚 Amo livros · 💜 K-Pop · 🌸 Animes · ☕ 100% Café
+💡 Aprendizado contínuo · 🌐 Estudando idiomas · 📚 Amo livros · 💜 K-Pop · 🇰🇷 Doramas · 🌸 Animes · ☕ 100% Café
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 

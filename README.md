@@ -17,7 +17,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="[https://tenor.com/nYCpk78duAG.gif](https://tenor.com/view/kuromi-gif-11593913053718637316)" width="200"/>
+<img src="[[https://tenor.com/nYCpk78duAG.gif](https://tenor.com/view/kuromi-gif-11593913053718637316)](https://media1.tenor.com/m/oOXafsOp6wQAAAAC/kuromi.gif)" width="200"/>
 
 </td>
 </tr>

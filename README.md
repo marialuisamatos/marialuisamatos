@@ -17,13 +17,13 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGljdTRhanl1Z2lnbWg4eGN5aTkzd3d0NDE4bjl5dmFteHlnZTM4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JxKVO3ZAHLiDKYSwgC/giphy.gif" width="200"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxscjRlNzltZG5hNmQ3eHpvOXBxd3F0cDkwMzB6czE0b2FraGY2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif" width="200"/>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
 ## 💜 Sobre mim
 
@@ -37,100 +37,68 @@ Também participei do programa **AWS re/Start**, onde tive contato com Linux, Py
 
 Atualmente, estou buscando minha primeira oportunidade profissional na área de tecnologia, especialmente como **Desenvolvedora ou Analista de Sistemas Júnior**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
 ## 🛠️ Tech Stack
 
-### 💻 Desenvolvimento
+<div align="center">
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/>
-</p>
+**Desenvolvimento**
 
-### 🗄️ Banco de Dados
+<img src="https://img.shields.io/badge/HTML5-7B70FF?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-7B70FF?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-7B70FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-7B70FF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-7B70FF?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-7B70FF?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-7B70FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-7B70FF?style=for-the-badge&logo=python&logoColor=white"/>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45"/>
-</p>
+**Banco de Dados**
 
-**MySQL • MongoDB • SQL Server**
+<img src="https://img.shields.io/badge/MySQL-9B8FFF?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-9B8FFF?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-9B8FFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-### ☁️ Cloud & DevOps
+**Cloud & DevOps**
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45"/>
-</p>
+<img src="https://img.shields.io/badge/AWS-5B4FD9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-5B4FD9?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-5B4FD9?style=for-the-badge&logo=git&logoColor=white"/>
 
-**AWS EC2 • S3 • IAM • VPC • Lambda • RDS • CloudTrail • CloudFormation • Route 53**
+**Testes & Automação**
 
-### 🧪 Testes & Automação
+<img src="https://img.shields.io/badge/Cypress-2E2A5B?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-2E2A5B?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyAutoGUI-2E2A5B?style=for-the-badge&logo=python&logoColor=white"/>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="45"/>
-</p>
+</div>
 
-**Cypress • Selenium • PyAutoGUI**
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
 ## 🚀 O que eu já desenvolvi
 
 ### 🤖 Sistema de Moderação de Comentários com IA
-
 Sistema desenvolvido em equipe com o **Porto Digital**, utilizando a API do **Google Gemini** para identificar e bloquear comentários ofensivos.
-
-**Stack:**
-
 `Google Gemini API` `Cypress` `JavaScript` `Web`
 
----
-
 ### 🍽️ NutriControl
-
 SPA completa de gestão alimentar, com dashboard em Chart.js, controle de estoque, modo cozinha com baixa de estoque por receita e exportação em PDF.
-
-**Stack:**
-
 `JavaScript` `Chart.js` `LocalStorage`
 
----
-
 ### ☕ Recifidades
-
 Projeto acadêmico desenvolvido em equipe para reimplementação do sistema **Recifidades** utilizando Java.
-
-**Conceitos utilizados:**
-
 `Java` `POO` `JPA` `ORM` `CRUD` `Collections` `Interfaces`
 
----
-
 ### ☁️ AWS re/Start
-
 Formação prática em **Cloud Computing**, com atividades envolvendo infraestrutura, Linux, automação e serviços AWS.
-
-**Tecnologias:**
-
 `AWS` `Linux` `Python` `Shell Script`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
 ## 🧪 Experiência com QA
 
-Durante minha formação, também trabalhei com **automação e análise de sistemas**.
-
-Já utilizei:
+Durante minha formação, também trabalhei com **automação e análise de sistemas**. Já utilizei:
 
 - Cypress
 - Selenium
@@ -141,58 +109,44 @@ Já utilizei:
 
 Acredito que desenvolver uma aplicação também significa saber **testá-la, encontrar problemas e melhorar continuamente**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
 ## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas**
-Faculdade Católica Imaculada Conceição do Recife — FICR
-`2024 — 2026`
+| Curso | Instituição | Período |
+|---|---|---|
+| Análise e Desenvolvimento de Sistemas | FICR — Faculdade Católica Imaculada Conceição do Recife | 2024 — 2026 |
+| AWS re/Start — Cloud Computing | Rede Cidadã | 2026 |
 
-**AWS re/Start — Cloud Computing**
-Rede Cidadã
-`2026`
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
 ## 🤝 Voluntariado
 
-### AWSome Women Community Summit Brasil
-
+**AWSome Women Community Summit Brasil**
 Atuei como voluntária no evento em **14 de março de 2026**, auxiliando na:
+`Recepção` `Credenciamento` `Suporte aos participantes` `Suporte aos palestrantes`
 
-`Recepção` • `Credenciamento` • `Suporte aos participantes` • `Suporte aos palestrantes`
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
 ## 🧠 Além do código
 
-💡 Aprendizado contínuo
-🤝 Trabalho em equipe
-📚 Organização
-🚀 Adaptabilidade
-💬 Comunicação
-🔎 Curiosidade
-
----
+💡 Aprendizado contínuo · 🤝 Trabalho em equipe · 📚 Organização · 🚀 Adaptabilidade · 💬 Comunicação · 🔎 Curiosidade
 
 ## 🌎 Idiomas
 
 🇺🇸 **Inglês** — Básico, em desenvolvimento
 🇪🇸 **Espanhol** — Básico, em desenvolvimento
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=marialuisamatos&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=marialuisamatos&theme=radical&hide_border=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=marialuisamatos&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=9B8FFF&icon_color=7B70FF&text_color=c9c9c9)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=marialuisamatos&hide_border=true&layout=compact&bg_color=0D1117&title_color=9B8FFF&text_color=c9c9c9)
 
 </div>
-
----
 
 <div align="center">
 

@@ -4,13 +4,7 @@
 
 🎓 Graduada em Análise e Desenvolvimento de Sistemas ☁️ Cloud Computing & AWS 💻 Desenvolvimento Front-end & Back-end 🧪 Automação de testes 📍 Recife, PE — Brasil
 
-<br clear="right"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
+<br clear="right"/> <hr style="border: 2px solid #7B70FF; border-radius: 4px;">
 
 ## 💜 Sobre mim
 

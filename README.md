@@ -1,88 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B70FF&height=180&section=header&text=Hey,%20eu%20sou%20a%20Malu!&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=7B70FF&center=true&vCenter=true&width=560&lines=Desenvolvedora+%26+Analista+de+Sistemas;Cloud+Computing+%26+AWS;Front-end+%26+Back-end;Automa%C3%A7%C3%A3o+de+Testes" alt="Typing SVG" />
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=140&text=MARIA%20LUISA%20SILVA&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=50)
 
 </div>
 
-<br>
+### `$ whoami`
+Desenvolvedora & Analista de Sistemas — Recife, PE, Brasil
+Foco atual: **Cloud Computing (AWS)** · **Front-end & Back-end** · **Automação de testes**
 
-Oi! Eu sou a __Maria Luisa__, mas pode me chamar de __Malu__. Sou graduada em __Análise e Desenvolvimento de Sistemas__ e gosto de transformar ideias em soluções através da tecnologia. Minha experiência acadêmica e prática passa por __desenvolvimento web, back-end, bancos de dados, automação de testes e Cloud Computing__. Participei do programa __AWS re/Start__, onde tive contato com Linux, Python, Shell Script e diversos serviços da AWS. Atualmente, estou em busca da minha primeira oportunidade profissional na área, como __Desenvolvedora ou Analista de Sistemas Júnior__. 📍 Recife, PE — Brasil.
+Oi! Eu sou a **Maria Luisa**, mas pode me chamar de **Malu**. Sou graduada em **Análise e Desenvolvimento de Sistemas** e gosto de transformar ideias em soluções através da tecnologia. Minha experiência acadêmica e prática passa por desenvolvimento web, back-end, bancos de dados, automação de testes e Cloud Computing. Participei do programa **AWS re/Start**, com Linux, Python, Shell Script e diversos serviços da AWS. Atualmente, estou em busca da minha primeira oportunidade profissional como **Desenvolvedora ou Analista de Sistemas Júnior**.
 
-## ☁ Tech Stack
+---
 
-<div align="center">
+## 🚀 Stack
 
-<img src="https://img.shields.io/badge/HTML5-7B70FF?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-7B70FF?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-7B70FF?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-7B70FF?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-7B70FF?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-7B70FF?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-7B70FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-7B70FF?style=for-the-badge&logo=python&logoColor=white"/>
+**Front-end**
 
-<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/MySQL-DAB0C0?style=for-the-badge&logo=mysql&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-DAB0C0?style=for-the-badge&logo=mongodb&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-DAB0C0?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-<img src="https://img.shields.io/badge/Linux-DAB0C0?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-DAB0C0?style=for-the-badge&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cypress-DAB0C0?style=for-the-badge&logo=cypress&logoColor=black"/>
-<img src="https://img.shields.io/badge/Selenium-DAB0C0?style=for-the-badge&logo=selenium&logoColor=black"/>
+**Back-end**
 
-</div>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-## ✿ Socials
+**Dados**
 
-<div align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<a href="https://github.com/marialuisamatos/"><img src="https://img.shields.io/badge/GitHub-DAB0C0?style=for-the-badge&logo=github&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/maria-luisa-silva/"><img src="https://img.shields.io/badge/Linkedin-DAB0C0?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-<a href="https://marialuisamatos.github.io/"><img src="https://img.shields.io/badge/Portfólio-DAB0C0?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+**Cloud & DevOps**
 
-</div>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<br>
+**Testes**
 
-## 🚀 Projetos em destaque
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-**🤖 Sistema de Moderação de Comentários com IA** — desenvolvido em equipe com o Porto Digital, usando a API do Google Gemini para identificar e bloquear comentários ofensivos.
-`Google Gemini API` `Cypress` `JavaScript`
+## 🌟 Projetos em destaque
 
-**🍽️ NutriControl** — SPA completa de gestão alimentar (HTML, CSS e JavaScript puro), com dashboard em Chart.js, controle de estoque, modo cozinha com baixa de estoque por receita, exportação em PDF e responsividade total.
-`JavaScript` `Chart.js` `LocalStorage`
+**🤖 Sistema de Moderação de Comentários com IA**
+Desenvolvido em equipe com o Porto Digital, usando a API do Google Gemini para identificar e bloquear comentários ofensivos.
+`Google Gemini API` · `Cypress` · `JavaScript`
 
-**☕ Recifidades** — reimplementação em equipe do sistema Recifidades, projeto acadêmico em Java.
-`Java` `POO` `JPA` `ORM` `CRUD`
+**🍽️ NutriControl**
+SPA completa de gestão alimentar (HTML, CSS e JavaScript puro), com dashboard em Chart.js, controle de estoque, modo cozinha com baixa de estoque por receita, exportação em PDF e responsividade total.
+`JavaScript` · `Chart.js` · `LocalStorage`
 
-**☁️ AWS re/Start** — formação prática em Cloud Computing, com infraestrutura, Linux, automação e serviços AWS.
-`AWS` `Linux` `Python` `Shell Script`
+**☕ Recifidades**
+Reimplementação em equipe do sistema Recifidades, projeto acadêmico em Java.
+`Java` · `POO` · `JPA` · `ORM` · `CRUD`
+
+**☁️ AWS re/Start**
+Formação prática em Cloud Computing, com infraestrutura, Linux, automação e serviços AWS.
+`AWS` · `Linux` · `Python` · `Shell Script`
 
 ## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas** — Faculdade Católica Imaculada Conceição do Recife (FICR) `2024 — 2026`
-**AWS re/Start — Cloud Computing** — Rede Cidadã `2026`
+- **Análise e Desenvolvimento de Sistemas** — FICR (Faculdade Católica Imaculada Conceição do Recife), 2024–2026
+- **AWS re/Start — Cloud Computing** — Rede Cidadã, 2026
 
 ## 🤝 Voluntariado
 
-**AWSome Women Community Summit Brasil** — recepção, credenciamento e suporte a participantes e palestrantes (14/03/2026).
+**AWSome Women Community Summit Brasil** — recepção, credenciamento e suporte a participantes e palestrantes (14/03/2026)
 
-## ♥︎ GitHub Stats
+## 🌎 Idiomas
+
+Inglês — básico, em desenvolvimento · Espanhol — básico, em desenvolvimento
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=marialuisamatos&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=marialuisamatos&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=marialuisamatos&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=marialuisamatos&theme=radical&hide_border=true&layout=compact)
 
 </div>
 
-<br>
+## 📬 Contato
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B70FF&height=100&section=footer"/>
-<sub>made with 💜 by Malu</sub>
+
+<a href="https://www.linkedin.com/in/maria-luisa-silva/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://marialuisamatos.github.io/"><img src="https://img.shields.io/badge/Portfólio-FF9900?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/marialuisamatos/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80)
+
 </div>

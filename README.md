@@ -1,21 +1,12 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=7B70FF&height=200&section=header&text=Maria%20Luisa%20Silva&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20%26%20Analista%20de%20Sistemas&descAlignY=58&descSize=20)
+Mostrar Imagem
 
-</div>
+</div> <img align="right" src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="220"/>
 
-<table>
-<tr>
-<td width="65%" valign="top">
+🎓 Graduada em Análise e Desenvolvimento de Sistemas ☁️ Cloud Computing & AWS 💻 Desenvolvimento Front-end & Back-end 🧪 Automação de testes 📍 Recife, PE — Brasil
 
-🎓 Graduada em **Análise e Desenvolvimento de Sistemas**
-☁️ **Cloud Computing & AWS**
-💻 Desenvolvimento **Front-end & Back-end**
-🧪 Automação de testes
-📍 Recife, PE — Brasil
-
-</td>
-<td width="35%" align="center">
+<br clear="right"/> <img src="https://capsule-render.vercel.app/api?type=rect&color=7B70FF&height=3&width=1000"/>
 
 <img src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="200"/>
 

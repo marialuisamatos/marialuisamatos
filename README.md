@@ -1,7 +1,5 @@
 <div align="center">
 
-Mostrar Imagem
-
 </div> <img align="right" src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="220"/> <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=38&duration=3000&pause=800&color=7B70FF&width=500&lines=Hello%2C+I'm+Luisa!" alt="Typing SVG" /></a>

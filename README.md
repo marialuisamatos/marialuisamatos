@@ -17,7 +17,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://media1.tenor.com/m/OxiWDdNREpsAAAAC/pixel-pixel-art.gif" width="200"/>
+<img src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="200"/>
 
 </td>
 </tr>

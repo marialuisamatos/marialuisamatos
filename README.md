@@ -1,10 +1,12 @@
 <div align="center">
 
+Mostrar Imagem
+
 </div> <img align="right" src="https://media1.tenor.com/m/yAigGB5IKZwAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="220"/>
 
 🎓 Graduada em Análise e Desenvolvimento de Sistemas ☁️ Cloud Computing & AWS 💻 Desenvolvimento Front-end & Back-end 🧪 Automação de testes 📍 Recife, PE — Brasil
 
-<br clear="right"/> <hr style="border: 2px solid #7B70FF; border-radius: 4px;">
+<br clear="right"/> <hr style="height:3px; background-color:#7B70FF; border:none; border-radius:4px;">
 
 ## 💜 Sobre mim
 
